@@ -43,14 +43,6 @@ public class FetchData extends AsyncTask<Object, String, String>{
 
             for (int i = 0; i < 5; i++) {
                 JSONObject jsonObject1 = jsonArray.getJSONObject(i);
-//                JSONObject getLocation = jsonObject1.getJSONObject("geometry").getJSONObject("location");
-//
-//                String lat = getLocation.getString("lat");
-//                String lng = getLocation.getString("lng");
-//
-//                JSONObject getName = jsonArray.getJSONObject(i);
-//                String name = getName.getString("name");
-
                 JSONObject getLocation = jsonObject1.getJSONObject("gps_coordinates");
                 String name = jsonObject1.getString("title");
                 String lat = getLocation.getString("latitude");
@@ -75,4 +67,6 @@ public class FetchData extends AsyncTask<Object, String, String>{
 
 }
 
-// 10120205 - Raya Adhary - IF5
+// 10120181
+// Akhdan Rafly
+// IF - 5

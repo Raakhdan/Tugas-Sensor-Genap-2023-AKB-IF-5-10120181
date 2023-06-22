@@ -19,4 +19,6 @@ public class InfoFragment1 extends Fragment {
     }
 }
 
-// 10120205 - Raya Adhary - IF5
+// 10120181
+// Akhdan Rafly
+// IF - 5

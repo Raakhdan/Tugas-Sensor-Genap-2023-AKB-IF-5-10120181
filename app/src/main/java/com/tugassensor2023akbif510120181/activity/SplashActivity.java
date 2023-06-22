@@ -32,4 +32,6 @@ public class SplashActivity extends AppCompatActivity {
 }
 
 
-// 10120205 - Raya Adhary - IF5
+// 10120181
+// Akhdan Rafly
+// IF - 5
