@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasSensor2023AKBIF510120181</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nama">Akhdan Rafly</string>
+    <string name="kelas">IF - 5</string>
+    <string name="nim">10120181</string>
+    <string name="matkul">Aplikasi Komputasi Bergerak</string>
+    <string name="email">akhdan.10120181@mahasiswa.unikom.ac.id</string>
+    <string name="unikom">Universitas Komputer Indonesia</string>
+</resources>

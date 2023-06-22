@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7C7C7C"
+    tools:context=".fragment.NearbyPlacesFragment">
+
+    <Button
+        android:id="@+id/nearby_places"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Restaurant"
+        android:backgroundTint="@color/black"
+        android:textColor="#FFFFFF"/>
+</FrameLayout>
